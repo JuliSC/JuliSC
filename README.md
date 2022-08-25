@@ -4,7 +4,7 @@ A positive and enthusiastic developer with a love for the creative.
 👀 I’m interested in making people smile. If that's through a wacky local coop game or a service that makes their life easier, doesn't matter. 
 Seeing that spark in people's eyes when they're having a good time, using something YOU made... NOTHING beats that.
 
-🌱 I’m currently learning Vue 3, Typescript and Tailwind CSS
+🌱 I’m currently learning Vue 3, Typescript, Tailwind CSS and how to properly test!
 
 💞️ I’m looking to collaborate on anything fun!
 
